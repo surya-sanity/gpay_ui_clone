@@ -22,7 +22,7 @@ class PayActions extends StatelessWidget {
             children: [
               Icon(
                 gpayActions[index].actionIcon,
-                color: Colors.grey[900],
+                color: Colors.black87,
               ),
               const SizedBox(
                 height: 10,
